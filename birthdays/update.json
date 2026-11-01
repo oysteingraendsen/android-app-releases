@@ -1,7 +1,7 @@
 {
   "name": "Birthdays",
-  "versionCode": 2000,
-  "versionName": "0.2.0",
-  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.2.0/birthdays-0.2.0.apk",
-  "notes": "- Add shared email/password sign-in via Firebase Auth\n- Add shared designsystem module (Family colours)"
+  "versionCode": 3000,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.3.0/birthdays-0.3.0.apk",
+  "notes": "- Birthdays: personal labels, reminders and label mode\n- Birthdays: shared family sync with Home, Search and Settings"
 }
