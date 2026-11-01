@@ -1,0 +1,6 @@
+{
+  "versionCode": 1000,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/todo-v0.1.0/todo-0.1.0.apk",
+  "notes": "- Add self-updating app setup with todo app"
+}
