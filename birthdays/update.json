@@ -1,6 +1,7 @@
 {
-  "versionCode": 1000,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.1.0/birthdays-0.1.0.apk",
-  "notes": "- Add birthdays app\n- Add self-updating app setup with todo app"
+  "name": "Birthdays",
+  "versionCode": 2000,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.2.0/birthdays-0.2.0.apk",
+  "notes": "- Add shared email/password sign-in via Firebase Auth\n- Add shared designsystem module (Family colours)"
 }
