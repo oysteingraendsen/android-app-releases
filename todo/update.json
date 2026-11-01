@@ -1,7 +1,7 @@
 {
   "name": "Todo",
-  "versionCode": 1001,
-  "versionName": "0.1.1",
-  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/todo-v0.1.1/todo-0.1.1.apk",
-  "notes": ""
+  "versionCode": 2000,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/todo-v0.2.0/todo-0.2.0.apk",
+  "notes": "- Add shared email/password sign-in via Firebase Auth\n- Add shared designsystem module (Family colours)"
 }
