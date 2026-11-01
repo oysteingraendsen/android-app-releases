@@ -1,7 +1,7 @@
 {
   "name": "Bursdager",
-  "versionCode": 4000,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.4.0/birthdays-0.4.0.apk",
-  "notes": "- Birthdays in Norwegian"
+  "versionCode": 4001,
+  "versionName": "0.4.1",
+  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.4.1/birthdays-0.4.1.apk",
+  "notes": "- Birthdays: don't clip the day, month and year"
 }
