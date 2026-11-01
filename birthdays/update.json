@@ -1,7 +1,7 @@
 {
   "name": "Bursdager",
-  "versionCode": 4001,
-  "versionName": "0.4.1",
-  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.4.1/birthdays-0.4.1.apk",
-  "notes": "- Birthdays: don't clip the day, month and year"
+  "versionCode": 4002,
+  "versionName": "0.4.2",
+  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.4.2/birthdays-0.4.2.apk",
+  "notes": "- Bursdager: rising balloons icon"
 }
