@@ -1,7 +1,7 @@
 {
-  "name": "Birthdays",
-  "versionCode": 3002,
-  "versionName": "0.3.2",
-  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.3.2/birthdays-0.3.2.apk",
-  "notes": "- Birthdays: read-only page with Edit button and family navigation"
+  "name": "Bursdager",
+  "versionCode": 4000,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.4.0/birthdays-0.4.0.apk",
+  "notes": "- Birthdays in Norwegian"
 }
