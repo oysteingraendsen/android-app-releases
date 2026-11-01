@@ -1,7 +1,7 @@
 {
   "name": "Birthdays",
-  "versionCode": 3001,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.3.1/birthdays-0.3.1.apk",
-  "notes": "- Birthdays: pick day, month and year separately"
+  "versionCode": 3002,
+  "versionName": "0.3.2",
+  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.3.2/birthdays-0.3.2.apk",
+  "notes": "- Birthdays: read-only page with Edit button and family navigation"
 }
