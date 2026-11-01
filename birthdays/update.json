@@ -1,7 +1,7 @@
 {
   "name": "Birthdays",
-  "versionCode": 3000,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.3.0/birthdays-0.3.0.apk",
-  "notes": "- Birthdays: personal labels, reminders and label mode\n- Birthdays: shared family sync with Home, Search and Settings"
+  "versionCode": 3001,
+  "versionName": "0.3.1",
+  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/birthdays-v0.3.1/birthdays-0.3.1.apk",
+  "notes": "- Birthdays: pick day, month and year separately"
 }
