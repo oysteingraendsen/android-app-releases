@@ -1,0 +1,7 @@
+{
+  "name": "Husk",
+  "versionCode": 1000,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/husk-v0.1.0/husk-0.1.0.apk",
+  "notes": "- Husk: choose who in the family sees a shared list\n- Husk: a new app for lists of things to remember\n- Birthdays in Norwegian\n- Birthdays: shared family sync with Home, Search and Settings\n- Add shared email/password sign-in via Firebase Auth\n- Add shared designsystem module (Family colours)\n- Add self-updating app setup with todo app"
+}
