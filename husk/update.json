@@ -1,7 +1,7 @@
 {
   "name": "Husk",
-  "versionCode": 3000,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/husk-v0.3.0/husk-0.3.0.apk",
-  "notes": "- Husk: links on items, and Husk noe reads pasted links"
+  "versionCode": 4000,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/oysteingraendsen/android-app-releases/releases/download/husk-v0.4.0/husk-0.4.0.apk",
+  "notes": "- Husk: fix photo decoder target size\n- Husk: photos on items, gift recipients, link descriptions\n- Husk: share to Husk opens Husk noe with the shared text"
 }
